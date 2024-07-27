@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "USE_HAL_DRIVER",
+                "STM32F103x6"
+            ],
+            "compilerPath": "C:\\Strawberry\\c\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
